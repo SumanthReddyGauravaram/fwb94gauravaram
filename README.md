@@ -3,4 +3,4 @@
 Heroku remote link : https://fwb94gauravaram.herokuapp.com/
 
 class mattress:
-  brand(string),material(string),cost(number)
+  brand(string),material(string),cost(string)
